@@ -1,4 +1,4 @@
-# TOFMultiscopeNetAnalysis: A Comprehensive Analysis Framework for Material Thickness Estimation Using TOF Data
+# TOFMultiscopeNetAnalysis: A Comprehensive Analysis Framework for Material Thickness Estimation Using Time-Of-Flight Data
 
 ## Overview
 
