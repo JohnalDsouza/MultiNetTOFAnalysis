@@ -10,7 +10,7 @@ from tensorflow.keras.utils import plot_model
 from keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, EarlyStopping 
 from keras.optimizers import Adam
 from tensorflow.keras.losses import MeanSquaredError, MeanAbsoluteError, Huber, MeanSquaredLogarithmicError
-from InceptionNet.data import *
+from InceptionNet.src.data import *
 
 
 
